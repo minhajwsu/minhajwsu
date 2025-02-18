@@ -16,7 +16,7 @@ I'm an Electrical Engineer passionate about **nanoelectronics, semiconductor dev
 - **Fabrication & Characterization**: Spincoating, Photolithography, Plasma Etching, Sputtering, Probe Station, SCS
 
 ### 📫 Let's Connect!
-- 📧 Email: emdadulhuq.minhaj@wsu.edu
+- 📧 Email: e.h.minhaj@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ehminhaj) *(Replace with actual link)*
 - 🌐 [Website/Portfolio](https://your-portfolio.com) *(If applicable, replace with actual link)*
 
