@@ -17,8 +17,8 @@ I'm an Electrical Engineer passionate about **nanoelectronics, semiconductor dev
 
 ### 📫 Let's Connect!
 - 📧 Email: e.h.minhaj@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ehminhaj) *(Replace with actual link)*
-- 🌐 [Website/Portfolio](https://your-portfolio.com) *(If applicable, replace with actual link)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/minhaj94) 
+<!-- - 🌐 [Website/Portfolio](https://your-portfolio.com) *(If applicable, replace with actual link)* >
 
 🚀 Always excited to collaborate on research and open-source projects!
 
