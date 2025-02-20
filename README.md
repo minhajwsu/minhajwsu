@@ -8,7 +8,6 @@ I'm an Electrical Engineer passionate about **nanoelectronics, semiconductor dev
 - **Finite Element Modeling (FEM)** of nanoscale devices
 - **VLSI design & semiconductor physics**
 - **Photonics & nanoelectronics**
-- **Machine learning applications in circuit design**
 
 ### 🛠️ Skills
 - **Simulation & Modeling**: COMSOL Multiphysics, LTSPICE, Silvaco TCAD, Cadence Virtuoso
